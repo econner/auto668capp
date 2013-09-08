@@ -18,3 +18,12 @@ Install portaudio using homebrew
 Install other requirements
 
     pip install -r requirements.txt
+
+Wishlist / Ideas
+----------------
+- Tweet when dryer finishes.
+- Tweet when door opened / closed or when buzzing someone in.
+- Detect when trash needs to be taken out.
+- Report whether dishes are dirty or clean?
+- Track last time I was cleaned.
+- Determine when I need more groceries.
