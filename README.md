@@ -1,6 +1,8 @@
 Automating 668 Capp
 ===================
 
+Making 668 Capp sentient.
+
 Setup
 -----
 
