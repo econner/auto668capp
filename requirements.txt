@@ -1,3 +1,5 @@
 PyAudio==0.2.7
+autopep8==0.9.4
+pep8==1.4.6
 tweepy==2.1
 wsgiref==0.1.2
