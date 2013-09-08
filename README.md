@@ -11,6 +11,11 @@ Setup a new virtual env and activate it
     virtualenv auto668capp_env
     source auto668capp_env/bin/activate
 
+# Jeremy recommends using virtualenvwrapper
+# Nice for managing lots of virtualenvs
+# mkvirtualenv capp
+# workon capp
+
 Install portaudio using homebrew
 
     brew install portaudio
@@ -18,6 +23,14 @@ Install portaudio using homebrew
 Install other requirements
 
     pip install -r requirements.txt
+
+
+Set environment variable for capp st password. 
+
+In .bashrc write
+
+	export CAPP_PASS=password
+
 
 Wishlist / Ideas
 ----------------
