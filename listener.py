@@ -10,9 +10,6 @@ import struct
 import math
 import os
 
-TWITTER_USERNAME = '668capp'
-TWITTER_PASSWORD = os.environ['CAPP_PASS']
-
 INITIAL_TAP_THRESHOLD = 0.010
 FORMAT = pyaudio.paInt16
 SHORT_NORMALIZE = (1.0 / 32768.0)
