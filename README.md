@@ -25,11 +25,15 @@ Install other requirements
     pip install -r requirements.txt
 
 
-Set environment variable for capp st password. 
+Set environment variable for the 668 capp oauth app/tokens.
 
 In .bashrc write
 
-	export CAPP_PASS=password
+	export CAPP_KEY=XXXXX
+	export CAPP_SECRET=YYYYY
+
+	export CAPP_TOKEN=ZZZZZZ
+	export CAPP_TOKEN_SECRET=AAAAAA
 
 
 Wishlist / Ideas
